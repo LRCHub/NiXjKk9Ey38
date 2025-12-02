@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "HEY BLUE",
+  "base_artist": "Rei",
+  "createdAt": "2025-12-02T20:46:05.738257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Blue",
+      "artist": "The Tony Rich Project",
+      "has_synced": true,
+      "path": "select/01_Hey_Blue_The_Tony_Rich_Project.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Blue Eyes",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/02_Hey_Blue_Eyes_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Blue",
+      "artist": "Tony Rich",
+      "has_synced": false,
+      "path": "select/03_Hey_Blue_Tony_Rich.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Blue",
+      "artist": "Tony Rich",
+      "has_synced": true,
+      "path": "select/04_Hey_Blue_Tony_Rich.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Blue",
+      "artist": "Tony Rich Project",
+      "has_synced": true,
+      "path": "select/05_Hey_Blue_Tony_Rich_Project.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEY BLUE with Cory Wong",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_01_HEY_BLUE_with_Cory_Wong_Rei.txt"
+    }
+  ]
+}
